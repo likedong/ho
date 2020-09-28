@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-28T03:53:06.734Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="yIfrcH_MNC-TGdO1KtYB" version="13.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-28T03:54:42.876Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="HAt26JNJWiizWICqqxb-" version="13.7.5" type="github">
   <diagram id="NDPbMqgg9MDp4moAePaq" name="Page-1">
     <mxGraphModel dx="896" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SS5QTmyhc0jkKjKXeLdW-3" value="教师端" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="404" y="70" width="120" height="80" as="geometry" />
+          <mxGeometry x="434" y="70" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SS5QTmyhc0jkKjKXeLdW-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="SS5QTmyhc0jkKjKXeLdW-6" target="SS5QTmyhc0jkKjKXeLdW-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -20,7 +20,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SS5QTmyhc0jkKjKXeLdW-6" value="老师" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="270" y="80" width="30" height="60" as="geometry" />
+          <mxGeometry x="300" y="80" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SS5QTmyhc0jkKjKXeLdW-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SS5QTmyhc0jkKjKXeLdW-9" target="SS5QTmyhc0jkKjKXeLdW-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -29,7 +29,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SS5QTmyhc0jkKjKXeLdW-9" value="学生" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="270" y="350" width="30" height="60" as="geometry" />
+          <mxGeometry x="300" y="350" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SS5QTmyhc0jkKjKXeLdW-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="SS5QTmyhc0jkKjKXeLdW-12" target="SS5QTmyhc0jkKjKXeLdW-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SS5QTmyhc0jkKjKXeLdW-12" value="学生端" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="404" y="340" width="120" height="80" as="geometry" />
+          <mxGeometry x="434" y="340" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SS5QTmyhc0jkKjKXeLdW-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="SS5QTmyhc0jkKjKXeLdW-16" target="SS5QTmyhc0jkKjKXeLdW-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -50,19 +50,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SS5QTmyhc0jkKjKXeLdW-16" value="互动服务" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="404" y="200" width="120" height="80" as="geometry" />
+          <mxGeometry x="434" y="200" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SS5QTmyhc0jkKjKXeLdW-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="SS5QTmyhc0jkKjKXeLdW-18" target="SS5QTmyhc0jkKjKXeLdW-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SS5QTmyhc0jkKjKXeLdW-18" value="集团直播" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="610" y="200" width="120" height="80" as="geometry" />
+          <mxGeometry x="640" y="200" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="SS5QTmyhc0jkKjKXeLdW-19" value="课后作业" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="50" y="200" width="120" height="80" as="geometry" />
+        <mxCell id="SS5QTmyhc0jkKjKXeLdW-19" value="作业" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="200" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SS5QTmyhc0jkKjKXeLdW-20" value="题库" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="225" y="200" width="120" height="80" as="geometry" />
+          <mxGeometry x="255" y="200" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
