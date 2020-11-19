@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-19T07:12:25.409Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="kxuHThft8HfKjxcwVagm" version="13.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-19T08:21:17.093Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="o2dmmFZIs30YSRyBTz2v" version="13.9.8" type="github">
   <diagram id="NDPbMqgg9MDp4moAePaq" name="Page-1">
-    <mxGraphModel dx="2066" dy="1087" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2893" dy="1087" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,8 +19,11 @@
         <mxCell id="SS5QTmyhc0jkKjKXeLdW-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="SS5QTmyhc0jkKjKXeLdW-6" target="SS5QTmyhc0jkKjKXeLdW-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="hti-x4qdMeCJ_ronDHWi-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SS5QTmyhc0jkKjKXeLdW-6" target="hti-x4qdMeCJ_ronDHWi-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SS5QTmyhc0jkKjKXeLdW-6" value="老师" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="300" y="80" width="30" height="60" as="geometry" />
+          <mxGeometry x="130" y="80" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SS5QTmyhc0jkKjKXeLdW-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SS5QTmyhc0jkKjKXeLdW-9" target="SS5QTmyhc0jkKjKXeLdW-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -28,8 +31,11 @@
         <mxCell id="SS5QTmyhc0jkKjKXeLdW-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="SS5QTmyhc0jkKjKXeLdW-9" target="SS5QTmyhc0jkKjKXeLdW-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="hti-x4qdMeCJ_ronDHWi-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="SS5QTmyhc0jkKjKXeLdW-9" target="hti-x4qdMeCJ_ronDHWi-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SS5QTmyhc0jkKjKXeLdW-9" value="学生" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="300" y="350" width="30" height="60" as="geometry" />
+          <mxGeometry x="130" y="350" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SS5QTmyhc0jkKjKXeLdW-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="SS5QTmyhc0jkKjKXeLdW-12" target="SS5QTmyhc0jkKjKXeLdW-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -59,10 +65,13 @@
           <mxGeometry x="640" y="200" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SS5QTmyhc0jkKjKXeLdW-19" value="作业" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="200" width="120" height="80" as="geometry" />
+          <mxGeometry x="-90" y="200" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SS5QTmyhc0jkKjKXeLdW-20" value="题库" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="255" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hti-x4qdMeCJ_ronDHWi-3" value="&amp;nbsp;建班排课" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="85" y="200" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
